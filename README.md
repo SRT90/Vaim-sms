@@ -1,4 +1,4 @@
-# Vaim-sms
+# Vaim-sms 
 <img src="vaim-sms.png"><br>
 
 
@@ -39,7 +39,7 @@
  
 > `apt update && apt upgrade`
  
-> `git clone https://github.com/VaimpierOfficial/Vaim-sms`
+> `git clone https://github.com/SRT90/Vaim-sms`
  
 > `cd Vaim-sms`  
  
